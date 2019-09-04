@@ -10,6 +10,10 @@
   - [ ] Search.
   - [ ] Edit.
 - [x] Service functions.
+  - [x] Login.
+  - [x] Register.
+  - [x] Search.
+  - [x] Edit.
 - [x] Product/test data.
 - [x] Product management.
 - [ ] Shopping cart.
