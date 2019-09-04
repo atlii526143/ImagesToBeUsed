@@ -10,61 +10,61 @@
 namespace Augmentations {
     
     
-    public partial class Register {
+    public partial class AddPart {
         
         /// <summary>
-        /// Name control.
+        /// Snum control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText Name;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl Snum;
         
         /// <summary>
-        /// Surname control.
+        /// AugName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText Surname;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText AugName;
         
         /// <summary>
-        /// email control.
+        /// AugSup control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl email;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText AugSup;
         
         /// <summary>
-        /// Pass control.
+        /// AugPrice control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputPassword Pass;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl AugPrice;
         
         /// <summary>
-        /// ConfPass control.
+        /// AugQuantity control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputPassword ConfPass;
+        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl AugQuantity;
         
         /// <summary>
-        /// btnReg control.
+        /// btnAdd control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnReg;
+        protected global::System.Web.UI.WebControls.Button btnAdd;
         
         /// <summary>
         /// messageDiv control.

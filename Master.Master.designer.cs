@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Farmers_Field {
+namespace Augmentations {
     
     
     public partial class Master {

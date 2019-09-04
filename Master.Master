@@ -1,87 +1,74 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Farmers_Field.Master" %>
-
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Augmentations.Master" %>
 
 <!DOCTYPE html>
 
 <html>
 <head runat="server">
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
-	<meta name="keywords"
-		content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="freehtml5.co" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Phantom Pain &mdash; If It Itches</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Oswald:400,700">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
 
-	<meta property="og:title" content="" />
-	<meta property="og:image" content="" />
-	<meta property="og:url" content="" />
-	<meta property="og:site_name" content="" />
-	<meta property="og:description" content="" />
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/mediaelementplayer.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="css/fl-bigmug-line.css">
 
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
 
-	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
-	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
-	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/aos.css">
 
-	<!-- Magnific Popup -->
-	<link rel="stylesheet" href="css/magnific-popup.css">
-
-	<!-- Owl Carousel  -->
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-
-	<!-- Flexslider  -->
-	<link rel="stylesheet" href="css/flexslider.css">
-
-	<!-- Pricing -->
-	<link rel="stylesheet" href="css/pricing.css">
-
-	<!-- Theme style  -->
-	<link rel="stylesheet" href="css/style.css">
-
-	<!-- Modernizr JS -->
-	<script src="js/modernizr-2.6.2.min.js"></script>
-	<!-- FOR IE9 below -->
-	<!--[if lt IE 9]>
-	<script src="js/respond.min.js"></script>
-	<![endif]-->
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-		<nav class="fh5co-nav" role="navigation">
-			<div class="top-menu">
-				<div class="container">
-					<div class="row">
-						<div class="col-xs-2">
-							<div id="fh5co-logo"><a href="index.html"><i class="icon-study"></i>Farmers field<span></span></a></div>
-						</div>
-						<div class="col-xs-10 text-right menu-1">
-							<ul>
-                                <li class="active"><a href="Home.aspx">Home</a></li>
-                                <li><a href="Food.aspx"> Food </a></li>
-                                <li><a href="Machinery.aspx">Machinery</a></li>
-                                <li><a href="Medication.aspx">Medication</a></li>
-                                <li><a href="Contact.aspx">Contact</a></li>
-                                <li class="btn-cta"><a href="Login.aspx"><span>Login</span></a></li>
-                                <li class="btn-cta"><a href="Register.aspx"><span>Register</span></a></li>
-							</ul>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</nav>
-    <asp:ContentPlaceHolder ID="body" runat="server">
-         </asp:ContentPlaceHolder>
+      <div class="site-wrap">
+        <div class="site-navbar mt-4">
+            <div class="container py-1">
+                <div class="row align-items-center">
+                    <div class="col-8 col-md-8 col-lg-4">
+                        <h1 class="mb-0"><a href="index.html" class="text-white h2 mb-0"><strong>Phanto<span class="text-primary">m Pain.</span></strong></a></h1>
+                    </div>
+                    <div class="col-4 col-md-4 col-lg-8">
+                        <nav class="site-navigation text-right text-md-right" role="navigation">
+                            <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+                            <ul class="site-menu js-clone-nav d-none d-lg-block">
+                                <li class="active">
+                                    <a href="Home.aspx">Home</a>
+                                </li>
+                                <li><a href="#">Augmentations</a></li>
+                                <li><a href="Search.aspx">Search</a></li>
+                                <li class="has-children">
+                                    <a href="#">Catalogue</a>
+                                    <ul class="dropdown arrow-top">
+                                        <li><a href="ProductId.aspx">Edit Product</a></li>
+                                        <li><a href="AddPart.aspx">Add Product</a></li>
+                                        <li class="has-children">
+                                            <a href="#">User Mamgement</a>
+                                            <ul class="dropdown">
+                                                <li><a href="Login.aspx">Login</a></li>
+                                                <li><a href="Register.aspx">Register</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+    <div>
+        <asp:ContentPlaceHolder ID="body" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
 </body>
 </html>
