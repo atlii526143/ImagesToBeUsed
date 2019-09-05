@@ -1,0 +1,7 @@
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\bin\WcfService2.dll.config
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\bin\WcfService2.dll
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\bin\WcfService2.pdb
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\obj\Debug\WcfService2.csprojAssemblyReference.cache
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\obj\Debug\WcfService2.csproj.CoreCompileInputs.cache
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\Cremora\Desktop\Informatics 2B\Group Project\Farmer's Field\project\WcfService2\obj\Debug\WcfService2.pdb
