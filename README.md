@@ -1,10 +1,10 @@
-## Farmers field.
+# Farmers field
 
-### Descrition.
+## Descrition
 
 This repository contains INF2B group practical. The goal of the project is to build a website that's able to communicate with a service. The service should be able to retrieve records from a database and also store records into the database.
 
-#### Website.
+### Website
 
 - [x] Website design.
 - [ ] Website Functions.
@@ -19,7 +19,7 @@ This repository contains INF2B group practical. The goal of the project is to bu
 - [x] Product management.
 - [ ] Product catalog.
 
-#### Service.
+### Service
 
 - [x] Database.
 - [x] Service functions.
