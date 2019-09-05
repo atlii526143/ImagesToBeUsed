@@ -7,26 +7,26 @@ This repository contains INF2B group practical. The goal of the project is to bu
 #### Website.
 
 - [x] Website design.
-
-#### Service.
-
-- [ ] Product catalog.'
-- [x] Database.
 - [ ] Website Functions.
   - [ ] Login.
   - [ ] Register.
   - [ ] Search.
   - [ ] Edit.
+- [ ] Invoices.
+- [ ] User management.
+- [ ] Reports.
+- [x] Sessions.
+- [x] Product management.
+- [ ] Product catalog.
+
+#### Service.
+
+- [x] Database.
 - [x] Service functions.
   - [x] Login.
   - [x] Register.
   - [x] Search.
   - [x] Edit.
 - [x] Product/test data.
-- [x] Product management.
-- [ ] Shopping cart.
 - [ ] Transaction processing.
-- [ ] Invoices.
-- [ ] User management.
-- [x] Sessions.
-- [ ] Reports.
+- [ ] Shopping cart.
