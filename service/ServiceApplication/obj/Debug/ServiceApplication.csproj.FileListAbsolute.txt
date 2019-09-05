@@ -1,0 +1,7 @@
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\bin\ServiceApplication.dll.config
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\bin\ServiceApplication.dll
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\bin\ServiceApplication.pdb
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\obj\Debug\ServiceApplication.csprojAssemblyReference.cache
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\obj\Debug\ServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\obj\Debug\ServiceApplication.dll
+C:\Users\General\source\repos\ServiceApplication\ServiceApplication\obj\Debug\ServiceApplication.pdb

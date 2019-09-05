@@ -11,15 +11,7 @@ namespace Farmers_Field
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["Key"] == null)
-            {
-                Session["Key"] = "User";
-                System.Diagnostics.Debug.WriteLine(Session["Key"]);
-            }
-            else
-            {
-                System.Diagnostics.Debug.WriteLine("We have seen this user before.");
-            }
+            
         }
 
     }

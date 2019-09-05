@@ -13,13 +13,13 @@ namespace Farmers_Field {
     public partial class Login {
         
         /// <summary>
-        /// first_name control.
+        /// email control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText first_name;
+        protected global::System.Web.UI.HtmlControls.HtmlInputText email;
         
         /// <summary>
         /// password control.

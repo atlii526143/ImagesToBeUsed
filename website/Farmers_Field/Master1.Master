@@ -49,14 +49,22 @@
                     <div class="col-xs-10 text-right menu-1">
                         <ul>
                             <li class="active"><a href="Home.aspx">Home</a></li>
-                            <li><a href="Food.aspx"> Food </a></li>
-                            <li><a href="Machinery.aspx">Machinery</a></li>
-                            <li><a href="Medication.aspx">Medication</a></li>
+                            <li><a href="Product.aspx"> Products </a></li>
                             <li><a href="Contact.aspx">Contact</a></li>
-                            <li class="btn-cta"><a href="Login.aspx"><span>Login</span></a></li>
-                            <li class="btn-cta"><a href="Register.aspx"><span>Register</span></a></li>
                         </ul>
                     </div>
+                    <div class="col-xs-10 text-right menu-1" id="loggin" runat="server">
+                            <ul>
+                                <li class="btn-cta"><a href="Login.aspx"><span runat="server">Login</span></a></li>
+                                <li class="btn-cta"><a href="Register.aspx"><span runat="server">Register</span></a></li>
+                            </ul>
+                    </div>
+                    <div class="col-xs-10 text-right menu-1" id="loggedin" runat="server">
+                            <ul>
+                                <li class="btn-cta"><span runat="server"> User Logged in </span></li>
+                            </ul>
+                    </div>
+
                 </div>
             </div>
         </div>

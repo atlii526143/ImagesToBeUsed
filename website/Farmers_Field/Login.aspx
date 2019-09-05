@@ -17,7 +17,7 @@
                 <div class="form-group">
                   <div class="form-input">
                     <label for="e-mail" class="required">E-mail</label>
-                    <input type="text" id="first_name" runat="server" />
+                    <input type="text" id="email" runat="server" />
                   </div>
                   <div class="form-input">
                     <label for="password" class="required">Password</label>
