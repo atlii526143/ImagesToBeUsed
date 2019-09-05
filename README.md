@@ -16,8 +16,8 @@ This repository contains INF2B group practical. The goal of the project is to bu
 - [ ] User management.
 - [ ] Reports.
 - [x] Sessions.
-  - [ ] Hide login and register button.
-  - [ ] Show user logged in.
+  - [x] Hide login and register button.
+  - [x] Show user logged in.
 - [x] Product management.
 - [ ] Product catalog.
 
