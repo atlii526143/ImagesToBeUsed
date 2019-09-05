@@ -8,8 +8,8 @@ This repository contains INF2B group practical. The goal of the project is to bu
 
 - [x] Website design.
 - [ ] Website Functions.
-  - [ ] Login.
-  - [ ] Register.
+  - [x] Login.
+  - [x] Register.
   - [ ] Search.
   - [ ] Edit.
 - [ ] Invoices.
